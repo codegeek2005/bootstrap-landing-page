@@ -1,0 +1,7 @@
+All image resources used in this project are from free stock websites such as Pexels and Unsplash.
+
+Photographer credits and source links are included in the `alt` attributes of the <img> tags in the HTML.
+
+These images are used under the respective site’s free license, and no copyright violation is intended.
+
+The logo was generated the help of CHATGPT.
